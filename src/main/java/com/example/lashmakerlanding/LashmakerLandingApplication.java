@@ -9,5 +9,4 @@ public class LashmakerLandingApplication {
     public static void main(String[] args) {
         SpringApplication.run(LashmakerLandingApplication.class, args);
     }
-
 }
